@@ -1,7 +1,8 @@
 <template>
-  <div>
-    <NuxtPage />
+  <div class="panel flex items-center overflow-x-auto">
+    <LayoutNavbar />
   </div>
+  <NuxtPage />
 </template>
 
 <script>

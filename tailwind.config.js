@@ -71,8 +71,7 @@
                      DEFAULT: '#ffffff',
                      light: '#e0e6ed',
                      dark: '#888ea8',
-                 },
-                 blue: '#007ace',
+                 }
              },
              fontFamily: {
                  nunito: ['Nunito', 'sans-serif'],
