@@ -323,6 +323,13 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
+"@bhplugin/vue3-datatable@^1.1.4":
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@bhplugin/vue3-datatable/-/vue3-datatable-1.1.4.tgz#a0738b42784606b98051c0893a73ee639c23044c"
+  integrity sha512-MScegPKH+jD92zeFCGgAwfBC6DWr+JIgfrObWdbN/5fKonxM1U707vuD6Kcglx1WhwDgTpu3KIvjSPuxRIipYg==
+  dependencies:
+    vue "^3.2.37"
+
 "@cloudflare/kv-asset-handler@^0.3.1":
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/@cloudflare/kv-asset-handler/-/kv-asset-handler-0.3.1.tgz#9b86167e58dbc419943c8d3ddcd8e2823f5db300"
@@ -6028,7 +6035,7 @@ vue-virtual-scroller@2.0.0-beta.8:
     vue-observe-visibility "^2.0.0-alpha.1"
     vue-resize "^2.0.0-alpha.1"
 
-vue@^3.4.21:
+vue@^3.2.37, vue@^3.4.21:
   version "3.4.21"
   resolved "https://registry.yarnpkg.com/vue/-/vue-3.4.21.tgz#69ec30e267d358ee3a0ce16612ba89e00aaeb731"
   integrity sha512-5hjyV/jLEIKD/jYl4cavMcnzKwjMKohureP8ejn3hhEjwhWIhWeuzL2kJAjzl/WyVsgPY56Sy4Z40C3lVshxXA==

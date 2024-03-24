@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@bhplugin/vue3-datatable": "^1.1.4",
     "@nuxtjs/tailwindcss": "^6.11.4",
     "nuxt": "^3.11.1",
     "vue": "^3.4.21",
