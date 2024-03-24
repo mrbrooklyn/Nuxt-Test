@@ -60,15 +60,19 @@
                      'dark-light': 'rgba(59,63,92,.15)',
                  },
                  black: {
-                     DEFAULT: '#0e1726',
+                     /*DEFAULT: '#0e1726',
                      light: '#e3e4eb',
-                     'dark-light': 'rgba(14,23,38,.15)',
+                     'dark-light': 'rgba(14,23,38,.15)',*/
+                     DEFAULT: '#ffffff',
+                     light: '#e0e6ed',
+                     dark: '#888ea8',
                  },
                  white: {
                      DEFAULT: '#ffffff',
                      light: '#e0e6ed',
                      dark: '#888ea8',
                  },
+                 blue: '#007ace',
              },
              fontFamily: {
                  nunito: ['Nunito', 'sans-serif'],
