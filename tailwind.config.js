@@ -65,7 +65,7 @@
                      'dark-light': 'rgba(14,23,38,.15)',*/
                      DEFAULT: '#ffffff',
                      light: '#e0e6ed',
-                     dark: '#888ea8',
+                     'dark-light': '#888ea8',
                  },
                  white: {
                      DEFAULT: '#ffffff',

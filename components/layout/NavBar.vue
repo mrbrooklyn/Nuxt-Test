@@ -56,9 +56,9 @@
             </button>
           </div>
   
-          <span @click="isOpen = false" class="flex w-full items-center p-4 border-b">
+          <!-- <span @click="isOpen = false" class="flex w-full items-center p-4 border-b">
             <Tailwind />
-          </span>
+          </span> -->
   
           <ul class="divide-y font-sans">
             <li><a href="#" @click="isOpen = false" class="my-4 inline-block">Home</a></li>
