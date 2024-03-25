@@ -1,8 +1,12 @@
-/*.datatable > div {
+/* .datatable > div {
     @apply text-black dark:text-white-dark;
-}*/
+} */
 
-.datatable div {
-    color: black;
+.datatable > div {
+    @apply text-black;
 }
+
+/* .datatable div {
+    color: black;
+} */
 
