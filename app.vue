@@ -1,4 +1,5 @@
 <template>
+  <theme-customizer />
   <div class="panel flex items-center overflow-x-auto">
     <LayoutNavbar />
   </div>
