@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev --port 3333",
+    "dev": "nuxt dev --port 3001",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
@@ -21,6 +21,7 @@
     "tailwindcss": "^3.4.1",
     "unhead": "^1.9.1",
     "vue": "^3.4.21",
+    "vue-height-collapsible": "^0.1.1",
     "vue-router": "^4.3.0",
     "vue3-apexcharts": "^1.5.2"
   },

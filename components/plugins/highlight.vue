@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
     <div ref="el">
         <slot></slot>
     </div>
@@ -19,4 +19,4 @@
     pre.hljs {
         @apply overflow-auto rounded-md !bg-[#191e3a] p-4 text-white;
     }
-</style> -->
+</style>
