@@ -4,7 +4,7 @@
     </div>
 </template>
 <script setup lang="ts">
-    import { onMounted, Ref, ref } from 'vue';
+    import { onMounted, type  Ref, ref } from 'vue';
     import 'highlight.js/styles/monokai-sublime.css';
     import highlight from 'highlight.js';
 

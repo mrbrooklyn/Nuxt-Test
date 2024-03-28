@@ -4,6 +4,12 @@
 /* vue3-datatable */
 @import 'datatable.css';
 
+/* select2 */
+@import 'select2.css';
+
+/* sweetalert */
+@import 'sweetalert.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
